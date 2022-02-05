@@ -31,41 +31,583 @@ The following data sets are the results from the in-class negotiations of the Cl
 
 ### Wednesday (Lecture 7) ROUND 1, World 1
 
-| COUNTRY GROUP | EMISSIONS GROWTH  {{< br >}}STOP YEAR | EMISSIONS DECLINE  {{< br >}}STARE YEAR | DECLINE | AFFORESTATION | DEFORESTATION | FUND |
-| --- | --- | --- | --- | --- | --- | --- |
-| Developed | 2020 | 2021 | 2% | n.a. | n.a | 60B/year |
-| Developing A | 2050 | 2060 | 2% | 0.1 | 0.9 | n.a. |
-| Less Developed B | 2070 | 2100 | 1% | 0.2 | 0.8 | n.a. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COUNTRY GROUP
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS GROWTH  
+STOP YEAR
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS DECLINE  
+STARE YEAR
+{{< thclose >}}
+{{< thopen >}}
+DECLINE
+{{< thclose >}}
+{{< thopen >}}
+AFFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+DEFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+FUND
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Developed
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+2021
+{{< tdclose >}}
+{{< tdopen >}}
+2%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a
+{{< tdclose >}}
+{{< tdopen >}}
+60B/year
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Developing A
+{{< tdclose >}}
+{{< tdopen >}}
+2050
+{{< tdclose >}}
+{{< tdopen >}}
+2060
+{{< tdclose >}}
+{{< tdopen >}}
+2%
+{{< tdclose >}}
+{{< tdopen >}}
+0.1
+{{< tdclose >}}
+{{< tdopen >}}
+0.9
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Less Developed B
+{{< tdclose >}}
+{{< tdopen >}}
+2070
+{{< tdclose >}}
+{{< tdopen >}}
+2100
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+{{< tdopen >}}
+0.2
+{{< tdclose >}}
+{{< tdopen >}}
+0.8
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Wednesday (Lecture 7) ROUND 1, World 2
 
-| COUNTRY GROUP | EMISSIONS GROWTH  {{< br >}}STOP YEAR | EMISSIONS DECLINE  {{< br >}}STARE YEAR | DECLINE | AFFORESTATION | DEFORESTATION | FUND |
-| --- | --- | --- | --- | --- | --- | --- |
-| Developed | 2025 | 2035 | 0.5% | n.a. | n.a | 50B/year |
-| Developing {{< br >}}{{< br >}} A {{< br >}}{{< br >}}  | 2020 | 2021 | 1.2% | 0.6 | 0.4 | n.a. |
-| Less Developed B | 2075 | 2080 | 1% | 0.3 | 0.7 | n.a. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COUNTRY GROUP
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS GROWTH  
+STOP YEAR
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS DECLINE  
+STARE YEAR
+{{< thclose >}}
+{{< thopen >}}
+DECLINE
+{{< thclose >}}
+{{< thopen >}}
+AFFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+DEFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+FUND
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Developed
+{{< tdclose >}}
+{{< tdopen >}}
+2025
+{{< tdclose >}}
+{{< tdopen >}}
+2035
+{{< tdclose >}}
+{{< tdopen >}}
+0.5%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a
+{{< tdclose >}}
+{{< tdopen >}}
+50B/year
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Developing
+
+A
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+2021
+{{< tdclose >}}
+{{< tdopen >}}
+1.2%
+{{< tdclose >}}
+{{< tdopen >}}
+0.6
+{{< tdclose >}}
+{{< tdopen >}}
+0.4
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Less Developed B
+{{< tdclose >}}
+{{< tdopen >}}
+2075
+{{< tdclose >}}
+{{< tdopen >}}
+2080
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+{{< tdopen >}}
+0.3
+{{< tdclose >}}
+{{< tdopen >}}
+0.7
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Friday (Recitation 4) ROUND 1
 
-| COUNTRY GROUP | EMISSIONS GROWTH  {{< br >}}STOP YEAR | EMISSIONS DECLINE  {{< br >}}STARE YEAR | DECLINE | AFFORESTATION | DEFORESTATION | FUND |
-| --- | --- | --- | --- | --- | --- | --- |
-| US | 2025 | 2025 | 1% | n.a. | n.a | 60B/year {{< br >}}{{< br >}} to China {{< br >}}{{< br >}}  |
-| EU | 2020 | 2025 | 0.4% | n.a. | n.a. | 30B/year |
-| Other Developed | 2025 | 2030 | 0.5% | n.a. | n.a. | 10B/year |
-| India | 2035 | 2045 | 0.6% | 0.8 | 0.2 | &nbsp; |
-| China | 2045 | 2050 | 0.5% | n.a. | 0.1 | &nbsp; |
-| Other Developing | 2050 | 2070 | 0.4% | 0.5 | 0.5 |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COUNTRY GROUP
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS GROWTH  
+STOP YEAR
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS DECLINE  
+STARE YEAR
+{{< thclose >}}
+{{< thopen >}}
+DECLINE
+{{< thclose >}}
+{{< thopen >}}
+AFFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+DEFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+FUND
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+US
+{{< tdclose >}}
+{{< tdopen >}}
+2025
+{{< tdclose >}}
+{{< tdopen >}}
+2025
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a
+{{< tdclose >}}
+{{< tdopen >}}
+60B/year
+
+to China
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+EU
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+2025
+{{< tdclose >}}
+{{< tdopen >}}
+0.4%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+30B/year
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other Developed
+{{< tdclose >}}
+{{< tdopen >}}
+2025
+{{< tdclose >}}
+{{< tdopen >}}
+2030
+{{< tdclose >}}
+{{< tdopen >}}
+0.5%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+10B/year
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+India
+{{< tdclose >}}
+{{< tdopen >}}
+2035
+{{< tdclose >}}
+{{< tdopen >}}
+2045
+{{< tdclose >}}
+{{< tdopen >}}
+0.6%
+{{< tdclose >}}
+{{< tdopen >}}
+0.8
+{{< tdclose >}}
+{{< tdopen >}}
+0.2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+China
+{{< tdclose >}}
+{{< tdopen >}}
+2045
+{{< tdclose >}}
+{{< tdopen >}}
+2050
+{{< tdclose >}}
+{{< tdopen >}}
+0.5%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+0.1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other Developing
+{{< tdclose >}}
+{{< tdopen >}}
+2050
+{{< tdclose >}}
+{{< tdopen >}}
+2070
+{{< tdclose >}}
+{{< tdopen >}}
+0.4%
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Friday (Recitation 4) ROUND 2
 
-| COUNTRY GROUP | EMISSIONS GROWTH  {{< br >}}STOP YEAR | EMISSIONS DECLINE  {{< br >}}STARE YEAR | DECLINE | AFFORESTATION | DEFORESTATION | FUND |
-| --- | --- | --- | --- | --- | --- | --- |
-| US | 2020 | 2025 | 1% | n.a. | n.a | TBD |
-| EU | 2017 | 2020 | 0.5% | n.a. | n.a. | 40B/year |
-| Other Developed | 2020 | 2020 | 1% | n.a. | n.a. | n.a. |
-| India | 2030 | 2035 | 0.8% | 0.8 | 0.2 | &nbsp; |
-| China | 2035 | 2035 | 0.5% | n.a. | 0.1 | &nbsp; |
-| Other Developing | 2030 | 2060 | 0.4% | 0.5 | 0.5 |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COUNTRY GROUP
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS GROWTH  
+STOP YEAR
+{{< thclose >}}
+{{< thopen >}}
+EMISSIONS DECLINE  
+STARE YEAR
+{{< thclose >}}
+{{< thopen >}}
+DECLINE
+{{< thclose >}}
+{{< thopen >}}
+AFFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+DEFORESTATION
+{{< thclose >}}
+{{< thopen >}}
+FUND
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+US
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+2025
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a
+{{< tdclose >}}
+{{< tdopen >}}
+TBD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+EU
+{{< tdclose >}}
+{{< tdopen >}}
+2017
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+0.5%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+40B/year
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other Developed
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+2020
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+India
+{{< tdclose >}}
+{{< tdopen >}}
+2030
+{{< tdclose >}}
+{{< tdopen >}}
+2035
+{{< tdclose >}}
+{{< tdopen >}}
+0.8%
+{{< tdclose >}}
+{{< tdopen >}}
+0.8
+{{< tdclose >}}
+{{< tdopen >}}
+0.2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+China
+{{< tdclose >}}
+{{< tdopen >}}
+2035
+{{< tdclose >}}
+{{< tdopen >}}
+2035
+{{< tdclose >}}
+{{< tdopen >}}
+0.5%
+{{< tdclose >}}
+{{< tdopen >}}
+n.a.
+{{< tdclose >}}
+{{< tdopen >}}
+0.1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other Developing
+{{< tdclose >}}
+{{< tdopen >}}
+2030
+{{< tdclose >}}
+{{< tdopen >}}
+2060
+{{< tdclose >}}
+{{< tdopen >}}
+0.4%
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Team Paper
 ----------------
@@ -90,9 +632,54 @@ Prepare a one- to two-page account of the paper you plan to write. Include brief
 
 ### List of Final Paper Deliverables
 
-| DELIVERABLES | PERCENTAGES (OUT OF 40%) |
-| --- | --- |
-| Team roster (3-4 students) and topic (technologies) | 0% |
-| Detailed outline | 10% |
-| Final paper | 25% |
-| Short oral presentation | 5%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DELIVERABLES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES (OUT OF 40%)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team roster (3-4 students) and topic (technologies)
+{{< tdclose >}}
+{{< tdopen >}}
+0%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Detailed outline
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
