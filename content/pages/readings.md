@@ -50,7 +50,7 @@ This Course and The U.S. Energy System
 
 U.S. National Research Council. "Context and Challenges." Chapter 1 in _America's Energy Future_. National Academies Press, 2009, pp. 1–30. ISBN: 9780309141451.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Annual Energy Review 2011." (PDF - 3.4MB)](http://www.eia.gov/totalenergy/data/annual/archive/038411.pdf) U.S. _Energy Information Administration._ pp. 1–13.
+["Annual Energy Review 2011." (PDF - 3.4MB)](http://www.eia.gov/totalenergy/data/annual/archive/038411.pdf) U.S. _Energy Information Administration._ pp. 1–13.
 
 
 {{< tdclose >}}
@@ -68,9 +68,9 @@ Comparative Energy Systems
 
 ### Required Readings
 
-U.S. Energy Information Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["World Energy Demand and Economic Outlook." (PDF - 20MB)](http://www.eia.gov/forecasts/ieo/pdf/0484%282013%29.pdf) Chapter 1 in _International Energy Outlook 2011._ pp. 9–24.
+U.S. Energy Information Agency. ["World Energy Demand and Economic Outlook." (PDF - 20MB)](http://www.eia.gov/forecasts/ieo/pdf/0484%282013%29.pdf) Chapter 1 in _International Energy Outlook 2011._ pp. 9–24.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Primary Energy Consumption." (PDF)](http://large.stanford.edu/courses/2011/ph240/goldenstein1/docs/bp2011.pdf) _BP Statistical Review of World Energy 2011._
+["Primary Energy Consumption." (PDF)](http://large.stanford.edu/courses/2011/ph240/goldenstein1/docs/bp2011.pdf) _BP Statistical Review of World Energy 2011._
 
 Friedman, T. "Our Carbon Copies (Too Many Americans)." Chapter 3 in _Hot, Flat, and Crowded_. Farrar, Straus, and Giroux, 2008, pp. 53–76. ISBN: 9780374166854.
 
@@ -166,11 +166,11 @@ Path Dependence in Energy Systems
 
 Gawande, A. "[Getting There from Here](http://www.newyorker.com/reporting/2009/01/26/090126fa_fact_gawande)." _New Yorker_, January 26, 2009.
 
-Unruh, G. C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding Carbon Lock-in." (PDF - 1.3MB)](https://www.sciencedirect.com/science/article/pii/S0301421500000707) _Energy Policy_ 28 (2000): 817–30.
+Unruh, G. C. ["Understanding Carbon Lock-in." (PDF - 1.3MB)](https://www.sciencedirect.com/science/article/pii/S0301421500000707) _Energy Policy_ 28 (2000): 817–30.
 
 ### Recommended Readings
 
-Mahoney, J. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Path Dependence in Historical Sociology." (PDF)](http://webarchiv.ethz.ch/soms/teaching/OppFall09/MahoneyPathDependence.pdf) _Theory and Society_ 29, no. 4 (2000): 507–48.
+Mahoney, J. ["Path Dependence in Historical Sociology." (PDF)](http://webarchiv.ethz.ch/soms/teaching/OppFall09/MahoneyPathDependence.pdf) _Theory and Society_ 29, no. 4 (2000): 507–48.
 
 
 {{< tdclose >}}
@@ -258,7 +258,7 @@ McKinsey & Company. "[Executive Summary](http://www.mckinsey.com/client_service/
 
 ### Recommended Readings
 
-Smil, V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Energy in the Twentieth Century: Resources, Conversions, Costs, Uses, and Consequences." (PDF)](http://www.vaclavsmil.com/wp-content/uploads/docs/smil-article-2000-aree2000-1.pdf) _Annual Review of Energy and the Environment_ 25 (2000): 21–51.
+Smil, V. ["Energy in the Twentieth Century: Resources, Conversions, Costs, Uses, and Consequences." (PDF)](http://www.vaclavsmil.com/wp-content/uploads/docs/smil-article-2000-aree2000-1.pdf) _Annual Review of Energy and the Environment_ 25 (2000): 21–51.
 
 Goodwin, P., J. Dargay, et al. "[Elasticities of Road Traffic and Fuel Consumption with Respect to Price and Income: A Review](http://dx.doi.org/10.1080/0144164042000181725)." _Transport Reviews_ 24, no. 3 (2004): 275–92.
 
@@ -462,11 +462,11 @@ Shale: Opportunities & Challenges
 
 ### Required Readings
 
-Penn Environment. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"In the Shadow of the Marcellus Boom: How Shale Gas Extraction Puts Vulnerable Pennsylvanians at Risk." (PDF - 1.3MB)](https://pennenvironment.org/sites/environment/files/reports/In%20the%20Shadow%20of%20the%20Marcellus%20Boom.pdf) May, 2011.
+Penn Environment. ["In the Shadow of the Marcellus Boom: How Shale Gas Extraction Puts Vulnerable Pennsylvanians at Risk." (PDF - 1.3MB)](https://pennenvironment.org/sites/environment/files/reports/In%20the%20Shadow%20of%20the%20Marcellus%20Boom.pdf) May, 2011.
 
 Bipartisan Policy Center Energy Project. "[Shale Gas: New Opportunities, New Challenges](http://bipartisanpolicy.org/library/report/shale-gas-new-opportunities-new-challenges)." _Bipartisan Policy Center_ (2012).
 
-Jacoby, H. D., F. M. O'Sullivan, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Influence of Shale Gas on U.S. Energy and Environmental Policy." (PDF - 1.2MB)](http://globalchange.mit.edu/files/document/MITJPSPGC_Reprint_12-1.pdf) _Economics of Energy & Environmental Policy_ 1, no. 1 (2012): 37–51.
+Jacoby, H. D., F. M. O'Sullivan, et al. ["The Influence of Shale Gas on U.S. Energy and Environmental Policy." (PDF - 1.2MB)](http://globalchange.mit.edu/files/document/MITJPSPGC_Reprint_12-1.pdf) _Economics of Energy & Environmental Policy_ 1, no. 1 (2012): 37–51.
 
 ### Recommended Readings
 
@@ -518,7 +518,7 @@ Tomorrow's Electric Power System
 
 pp. 11–12 in \[M\].
 
-Joskow, P. L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Creating a Smarter U.S. Electricity Grid." (PDF)](http://web.mit.edu/ceepr/www/publications/reprints/Reprint_237_WC.pdf) Sloan Foundation and MIT, discussion draft, October 1, 2011.
+Joskow, P. L. ["Creating a Smarter U.S. Electricity Grid." (PDF)](http://web.mit.edu/ceepr/www/publications/reprints/Reprint_237_WC.pdf) Sloan Foundation and MIT, discussion draft, October 1, 2011.
 
 ### Recommended Readings
 
@@ -638,7 +638,7 @@ Micron-gap Thermal Photovoltaics; Economic Development & Green Growth
 
 ### Required Readings
 
-OECD. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Towards Green Growth: A Summary for Policy Makers." (PDF - 2.7MB)](http://www.oecd.org/greengrowth/48012345.pdf) _OECD_ (2011).
+OECD. ["Towards Green Growth: A Summary for Policy Makers." (PDF - 2.7MB)](http://www.oecd.org/greengrowth/48012345.pdf) _OECD_ (2011).
 
 ### Recommended Readings
 
@@ -646,7 +646,7 @@ UN Environment Program. ["Towards a Green Economy."](http://all62.jp/ecoacademy/
 
 "[A Bad Climate for Development](http://www.economist.com/node/14447171)," _The Economist_, September 17, 2009.
 
-Hogan, D., M. Kapur, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rural Electrification in India: The Solar Energy Opportunity." (PDF)](http://www.eprg.group.cam.ac.uk/wp-content/uploads/2008/11/eprg0730.pdf) Class report, 15.220, Fall 2009.
+Hogan, D., M. Kapur, et al. ["Rural Electrification in India: The Solar Energy Opportunity." (PDF)](http://www.eprg.group.cam.ac.uk/wp-content/uploads/2008/11/eprg0730.pdf) Class report, 15.220, Fall 2009.
 
 
 {{< tdclose >}}

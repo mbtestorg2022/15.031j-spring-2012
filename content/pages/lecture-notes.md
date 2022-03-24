@@ -28,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[This Course and The U.S. Energy System (PDF)]({{< baseurl >}}/resources/mit15_031js12_lec1)
+[This Course and The U.S. Energy System (PDF)]({{< baseurl >}}/resources/mit15_031js12_lec1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +37,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Comparative Energy Systems (PDF - 2.6MB)]({{< baseurl >}}/resources/mit15_031js12_lec2)
+[Comparative Energy Systems (PDF - 2.6MB)]({{< baseurl >}}/resources/mit15_031js12_lec2)
 {{< tdclose >}}
 
 {{< trclose >}}
