@@ -4,6 +4,7 @@ description: This resource contains information regarding derived demand and cap
   practice; discussion of final paper assignment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/db744fa6e7ccd841c7953dad7f3d0274_MIT15_031JS12_Dvd_Dm_Cptl.pdf
 file_type: application/pdf
+parent_uid: 544209e9-3af0-e518-a19d-fff04470f178
 resourcetype: Document
 title: 'Recitation 5: Problems'
 uid: db744fa6-e7cc-d841-c795-3dad7f3d0274

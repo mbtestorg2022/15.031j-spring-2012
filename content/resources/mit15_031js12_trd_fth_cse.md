@@ -4,6 +4,7 @@ description: This resource contains information related to clean coal/ dirty air
   trading filth.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/822db6ba4ff384832533c82cf88f0e36_MIT15_031JS12_Trd_Fth_Cse.pdf
 file_type: application/pdf
+parent_uid: a31622b4-3c75-4e46-9381-764b8069c51f
 resourcetype: Document
 title: 'Lecture 19 Reading: Trading Filth Case'
 uid: 822db6ba-4ff3-8483-2533-c82cf88f0e36
